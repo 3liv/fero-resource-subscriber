@@ -1,0 +1,19 @@
+{
+  "name": "fero-resource-subscriber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "copy-webpack-plugin": "^4.6.0",
+    "glob": "^7.1.3",
+    "path": "^0.12.7",
+    "utilise": "^2.3.8",
+    "webpack": "^4.27.1"
+  }
+}
