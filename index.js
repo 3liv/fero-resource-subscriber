@@ -1,7 +1,7 @@
 const { basename, extname, resolve, relative } = require('path')
   , ExtractTextPlugin = require('extract-text-webpack-plugin')
   , autolink = 'resources/components/**/!(*test).{css,js}'
-  , log = require('utilise/log')('fero-component')
+  , log = require('utilise/log')('[fero-component]')
   , copyplugin = require('copy-webpack-plugin')
   , includes = require('utilise/includes')
   , promise = require('utilise/promise')

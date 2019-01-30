@@ -1,14 +1,13 @@
 {
-  "name": "fero-resource-subscriber",
+  "name": "@3liv/fero-resource-subscriber",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Ali Versi (https://github.com/3liv)",
-  "license": "https://3liv.mit-license.org",
+  "license": "MIT",
   "dependencies": {
     "copy-webpack-plugin": "^4.6.0",
     "extract-text-webpack-plugin": "^3.0.2",
@@ -16,5 +15,15 @@
     "path": "^0.12.7",
     "utilise": "^2.3.8",
     "webpack": "^4.27.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3liv/fero-resource-subscriber.git"
+  },
+  "bugs": {
+    "url": "https://github.com/3liv/fero-resource-subscriber/issues"
+  },
+  "homepage": "https://github.com/3liv/fero-resource-subscriber#readme",
+  "description": ""
 }
