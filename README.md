@@ -1,0 +1,2 @@
+# fero-resource-subscriber
+
